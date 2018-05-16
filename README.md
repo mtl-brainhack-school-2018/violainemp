@@ -6,7 +6,7 @@ Undergrad Nursing school, specialised in psychiatry
 
 Master in industrial and mathematical engineering at Polytechnic Montréal
 	
-Project : predict the healing time of a wound using machine learning algorithms 
+  - Project : predict the healing time of a wound using machine learning algorithms 
 		
 Phd : Biomedical sciences, psychiatry option since september 2017 with Pierre Orban and Stephane Potvin at IUSMM
 	
