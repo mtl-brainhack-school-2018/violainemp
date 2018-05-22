@@ -14,9 +14,10 @@ Phd : Biomedical sciences, psychiatry option since september 2017 with Pierre Or
 
 # Goals
 
-1. Convert my data from DICOM to BIDS
+1. Convert my data from DICOM to BIDS (DONE)
 	
-      1.1 DICOM2bids
+      1.1 DICOM2bids (DONE)
+1.UPDATE Learn how to use niak on compute canada
 	
 2. Be able to use Niak and fMRI prep
 
